@@ -1,0 +1,50 @@
+{
+  "skip": {
+    "tag": true
+  },
+  "types": [
+    {
+      "type": "build",
+      "section": "Build",
+      "hidden": false
+    },
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "chore",
+      "section": "Chore",
+      "hidden": false
+    },
+    {
+      "type": "docs",
+      "section": "Docs",
+      "hidden": false
+    },
+    {
+      "type": "style",
+      "section": "Style",
+      "hidden": false
+    },
+    {
+      "type": "refactor",
+      "section": "Refactor",
+      "hidden": false
+    },
+    {
+      "type": "perf",
+      "hidden": true
+    },
+    {
+      "type": "test",
+      "hidden": true
+    }
+  ],
+  "commitUrlFormat": "https://github.com/davidkhierl/react-lottie-loader/-/commit/{{hash}}",
+  "compareUrlFormat": "https://github.com/davidkhierl/react-lottie-loader/-/compare?from={{previousTag}}&to={{currentTag}}"
+}
