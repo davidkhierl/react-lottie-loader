@@ -27,7 +27,10 @@
   "esmodule": "./dist/react-lottie-loader.modern.js",
   "typings": "./dist/typings/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "LICENSE.md",
+    "README.md",
+    "CHANGELOG.md"
   ],
   "scripts": {
     "build": "microbundle --jsx React.createElement --no-sourcemap",
