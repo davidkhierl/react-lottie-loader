@@ -1,7 +1,7 @@
 {
   "name": "react-lottie-loader",
   "version": "1.0.0",
-  "description": "Easy lottie player for Web, Android,iOS, React Native, and Windows",
+  "description": "Lottie loader for React",
   "keywords": [
     "lottie",
     "animation",
@@ -43,11 +43,11 @@
     "watch:scss": "sass --watch src/scss/index.scss dist/css/index.css"
   },
   "peerDependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "^17 || ^18",
+    "react-dom": "^17 || ^18"
   },
   "dependencies": {
-    "lottie-web": "^5.7.6"
+    "lottie-web": "^5.10.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.9",
