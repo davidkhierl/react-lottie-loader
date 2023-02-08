@@ -1,6 +1,6 @@
 # React Lottie Loader.
 
-> Easy lottie player for Web and React Native.
+> Lottie loader for React.
 
 ## Introduction
 
